@@ -25,7 +25,8 @@ For RED feature installed on Eclipse Neon, please upgrade your Eclipse platform:
  - #221 - Code coloring when a kw as a kw as arg
  - #227 - Eclipse Oxygen.3a, RED 0.8.6.201806181254, pydevd-1.2.0 and runPyDevDebug.py 
  - #229 - Integer as default values are considered as variables in keyword arguments definition
-KrzysztofJozefowicz/RED#1
+ 
+[#1]KrzysztofJozefowicz/RED/issues/1
 
 full changes in [changelog.txt](https://github.com/nokia/RED/blob/master/changelog.txt)
 
